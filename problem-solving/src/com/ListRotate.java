@@ -19,7 +19,7 @@ class Node {
     }
 }
 
-public class test {
+public class ListRotate {
     public static Node insert(Node head, int data) {
         //Complete this method
         Node t = null;
